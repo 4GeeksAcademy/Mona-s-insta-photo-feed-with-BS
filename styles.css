@@ -1,0 +1,50 @@
+body{
+    background-color: white;
+}
+
+.box2{
+    display: flex;
+}
+
+
+.myHeader{
+    display:inline-block;
+    position: absolute;
+    padding-left: 10px;
+    padding-top: 8px;
+
+}
+
+
+.box3{
+    text-align: center;
+    margin: 10px;
+}
+
+.box1 i{
+    padding-right: 10px;
+}
+.post-header{
+    height: 50px;
+}
+h1{
+    font-size: 20px;
+}
+.box3 i{
+    padding-right: 10px;
+    font-size: large;
+}
+.spanclass{
+    display: inline-block;
+    margin-left: 400px;
+    padding-top: 8px;
+}
+.post{
+    width: 40%;
+    margin-left: 33%;
+    border: 1px groove;
+}
+.imgclass{
+    width:100%
+}
+
